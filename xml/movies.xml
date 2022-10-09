@@ -1,0 +1,27 @@
+<root>
+    <movies>
+        <movie>
+            <id>1</id>
+            <name>Duna</name>
+            <year>2021</year>
+            <genre_id>1</genre_id>
+            <country_id>[1,2]</country_id>
+        </movie>
+    </movies>
+    <countries>
+        <country>
+            <id>1</id>
+            <name>USA</name>
+        </country>
+        <country>
+            <id>2</id>
+            <name>Kanada</name>
+        </country>
+    </countries>
+    <genres>
+        <genre>
+            <id>1</id>
+            <name>Sci-Fi</name>
+        </genre>
+    </genres>
+</root>
