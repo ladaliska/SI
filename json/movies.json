@@ -1,0 +1,30 @@
+{
+    "root": {
+        "movies": {
+            "movie": {
+                "id": 1,
+                "name": "Duna",
+                "year": 2021,
+                "genre_id": 1,
+                "country_id": "[1,2]"
+            }
+        },
+        "countries": {
+            "country": [{
+                    "id": 1,
+                    "name": "USA"
+                },
+                {
+                    "id": 2,
+                    "name": "Kanada"
+                }
+            ]
+        },
+        "genres": {
+            "genre": {
+                "id": 1,
+                "name": "Sci-Fi"
+            }
+        }
+    }
+}
