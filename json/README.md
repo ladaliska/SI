@@ -1,4 +1,4 @@
-# XML feed
+# JSON feed
 
 ## Databáze 
 root:
